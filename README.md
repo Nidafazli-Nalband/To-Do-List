@@ -56,22 +56,12 @@ Add, edit, complete, and delete tasks, all while setting optional **date & time*
 
 bash 
 
-cd SCT_WD_4
+cd To-Do-List
 ---
 3. Open index.html in any modern browser:
 
 bash
-start index.html
----
-📁 Folder Structure
-bash 
-
-SCT_WD_4/
-│
-├── index.html      # Main HTML file
-├── style.css       # Styling
-├── script.js       # App logic
-└── README.md       # Project description
+start index.html     
 ---
 🧾 License
 
@@ -82,7 +72,7 @@ This project is open source and free to use.
 
 Nida Fazli Nalband
 🎓 B.E. Computer Science Engineering
-💼 GitHub: NidaFazliNalband-eng
+💼 GitHub: nidafazlinalband-eng
 
 ---
 ✅ Next Steps / Suggestions:
